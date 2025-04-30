@@ -143,9 +143,8 @@ In order to produce a uniquely identifiable distribution:
 Feedstock Maintainers
 =====================
 
+* [@czaki](https://github.com/czaki/)
 * [@goanpeca](https://github.com/goanpeca/)
 * [@jaimergp](https://github.com/jaimergp/)
-
-
-<!-- dummy commit to enable rerendering -->
+* [@jni](https://github.com/jni/)
 

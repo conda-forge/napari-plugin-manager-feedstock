@@ -9,4 +9,4 @@ docker_image:
 pari:
 - 2.15.* *_pthread
 python_min:
-- '3.10'
+- '3.9'
