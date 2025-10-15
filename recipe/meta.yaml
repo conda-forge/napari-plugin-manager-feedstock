@@ -27,7 +27,7 @@ requirements:
     - qtpy
     - superqt
     - pip
-    # - napari >=0.4.18
+    - napari >=0.4.18
 
 test:
   imports:
