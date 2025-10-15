@@ -1,5 +1,5 @@
 {% set name = "napari-plugin-manager" %}
-{% set version = "0.1.6" %}
+{% set version = "0.1.7" %}
 
 package:
   name: {{ name|lower }}
@@ -7,7 +7,7 @@ package:
 
 source:
   url: https://pypi.org/packages/source/{{ name[0] }}/{{ name }}/{{ name.replace('-', '_') }}-{{ version }}.tar.gz
-  sha256: 8912bd487b509ab9130308ecc14978d5dbce2d09b136662b27d0edf09536569c
+  sha256: 858adeacfc65bb8ed92e875659999a51c06188a6c813ebef54f5248e27dd5a74
 
 build:
   noarch: python
@@ -27,7 +27,7 @@ requirements:
     - qtpy
     - superqt
     - pip
-    # - napari >=0.4.18
+    - napari >=0.4.18
 
 test:
   imports:
