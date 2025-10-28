@@ -144,6 +144,7 @@ Feedstock Maintainers
 =====================
 
 * [@DragaDoncila](https://github.com/DragaDoncila/)
+* [@conda-forge/napari](https://github.com/orgs/conda-forge/teams/napari/)
 * [@czaki](https://github.com/czaki/)
 * [@goanpeca](https://github.com/goanpeca/)
 * [@jaimergp](https://github.com/jaimergp/)
