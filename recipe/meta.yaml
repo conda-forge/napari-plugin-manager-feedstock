@@ -1,5 +1,5 @@
 {% set name = "napari-plugin-manager" %}
-{% set version = "0.1.7" %}
+{% set version = "0.1.8" %}
 
 package:
   name: {{ name|lower }}
@@ -7,7 +7,7 @@ package:
 
 source:
   url: https://pypi.org/packages/source/{{ name[0] }}/{{ name }}/{{ name.replace('-', '_') }}-{{ version }}.tar.gz
-  sha256: 858adeacfc65bb8ed92e875659999a51c06188a6c813ebef54f5248e27dd5a74
+  sha256: c871fcd5e4f60f1829253af39c737631a51a78f73a0fbdeaaeae977dfaf388a3
 
 build:
   noarch: python
